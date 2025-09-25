@@ -153,7 +153,3 @@ Visit 👉 `http://localhost:8080`
 * 📅 Automated session reminders
 * 🎨 Improved frontend (React/Angular)
 * ⭐ Advanced rating & recommendation system
-
----
-Do you want me to do that next?
-```
