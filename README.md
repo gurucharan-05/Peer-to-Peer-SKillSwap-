@@ -1,6 +1,3 @@
-Got it, Guru! Here’s a **complete, professional, recruiter-friendly README** with all your endpoints **including authentication, users, skills, sessions, and matching**, plus example JSONs and a “review” section to show feedback/rating functionality. Everything is in a **single copy-paste text block**.
-
-````
 # 🧑‍🤝‍🧑 SkillSwap – Peer-to-Peer Learning Platform
 
 SkillSwap is a **Spring Boot backend application** where users can **teach skills they know** and **learn skills they want** from peers.  
